@@ -34,7 +34,9 @@ Among the evaluated models, **ResNet-18 achieved the highest classification accu
 
 ## Dataset
 
-- **Source:** Kaggle
+This project uses the **Autism Spectrum Disorder (ASD) Facial Image Dataset** obtained from Kaggle.
+
+Due to GitHub storage limitations and dataset licensing, the dataset is **not included** in this repository.
 - **Total Images:** 2,940
 - **Classes:**
   - Autistic
